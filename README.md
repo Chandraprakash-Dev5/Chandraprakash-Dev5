@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6d28d9,50:8b5cf6,100:06b6d4&text=Chandraprakash%20V&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20|%20Full-Stack%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
@@ -20,7 +20,7 @@
 ---
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-```
+
 
 
 ## 🧑‍💻 About Me
