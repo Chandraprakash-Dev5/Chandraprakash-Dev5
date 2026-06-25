@@ -1,31 +1,27 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandraprakash%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:06b6d4&text=Chandraprakash%20V&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20|%20Full-Stack%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6d28d9,50:8b5cf6,100:06b6d4&text=Chandraprakash%20V&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20|%20Full-Stack%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chandraprakash+V+👋;Full-Stack+MERN+Developer+🚀;Building+Scalable+%26+Responsive+Web+Apps+🌐;TypeScript+%7C+Next.js+%7C+Docker+Learner+📚;Code.+Learn.+Build.+Repeat.+🔁" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Chandraprakash+V+👋;Full-Stack+MERN+Developer+🚀;Building+Scalable+%26+Responsive+Web+Apps+🌐;MongoDB+%7C+Express+%7C+React+%7C+Node.js;TypeScript+%7C+Next.js+%7C+Docker+Learner+📚;Code.+Learn.+Build.+Repeat.+🔁" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chandraprakash-Dev5&label=👁️%20Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Chandraprakash-Dev5&label=👁️%20Profile%20Views&color=8b5cf6&style=for-the-badge"/>
 
- 
+<img src="https://img.shields.io/github/followers/Chandraprakash-Dev5?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/github/followers/Chandraprakash-Dev5?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117" />
-
- 
-
-<img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20To-Work-8b5cf6?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-
 
 ---
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+```
+
 
 ## 🧑‍💻 About Me
 
