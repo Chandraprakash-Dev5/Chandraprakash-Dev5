@@ -1,20 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandraprakash%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandraprakash%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:06b6d4&text=Chandraprakash%20V&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20|%20Full-Stack%20Engineer%20|%20Problem%20Solver&descAlignY=60&descSize=17" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chandraprakash+V+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+%26+Responsive+Web+Apps+%F0%9F%8C%90;TypeScript+%7C+Next.js+%7C+Docker+Learner+%F0%9F%93%9A;Code.+Learn.+Build.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chandraprakash+V+👋;Full-Stack+MERN+Developer+🚀;Building+Scalable+%26+Responsive+Web+Apps+🌐;TypeScript+%7C+Next.js+%7C+Docker+Learner+📚;Code.+Learn.+Build.+Repeat.+🔁" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chandraprakash-Dev5&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Chandraprakash-Dev5?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117" />
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Chandraprakash-Dev5&label=👁️%20Profile%20Views&color=0ea5e9&style=for-the-badge" />
+
+ 
+
+<img src="https://img.shields.io/github/followers/Chandraprakash-Dev5?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117" />
+
+ 
+
 <img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge&labelColor=0d1117" />
 
 </div>
+
 
 ---
 
@@ -142,7 +149,7 @@ const chandraprakash = {
 
 | 🏫 Degree / Program | 🏛️ Institution | 📌 Status |
 |:--------------------|:--------------|:---------|
-| B.E. Computer Science & Engineering | VVIT College, Dharmapuri | 🟡 Pursuing |
+| B.E. Computer Science & Engineering | VVIT College, Dharmapuri | ✅ Completed |
 | MERN Stack Development Program | Code99 IT Academy, Chennai | ✅ Completed |
 
 </div>
