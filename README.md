@@ -109,12 +109,6 @@ const chandraprakash = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandraprakash-Dev5&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="Trophies" width="100%"/>
-</div>
-
 ---
 
 ## 📂 Featured Projects
